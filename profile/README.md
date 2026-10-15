@@ -47,7 +47,14 @@ Start free on testnets, with the same API you'll use live: **[create a test work
 
 ### Verify, don't trust
 
-Keys are generated and used only inside hardware enclaves. The enclave image is built reproducibly and its measurement is published, so anyone can ask the running service to prove what it is (`GET /v1/attestation`) and check it with `verifyAttestation` from the SDK. What's done and what isn't yet, including the external audit, is listed openly on the [security page](https://valtu.io/security).
+Keys are generated and used only inside hardware enclaves. The enclave image is built reproducibly and its measurement is published, so anyone can ask the running service to prove what it is (`GET /v1/attestation`) and check it with `verifyAttestation` from the SDK ([try it in one command](https://github.com/Valtu-Wallet/examples/tree/main/verify-enclave)). What's done and what isn't yet, including the external audit, is listed openly on the [security page](https://valtu.io/security).
+
+### Repositories
+
+| Repository | |
+| --- | --- |
+| [**wallet-kit**](https://github.com/Valtu-Wallet/wallet-kit) | Source of the Node.js and TypeScript SDK (`@valtu/wallet-kit`) |
+| [**examples**](https://github.com/Valtu-Wallet/examples) | Runnable apps: hosted USDT checkout, customer deposit addresses, batch payouts, verify the enclave |
 
 ### Packages
 
