@@ -5,7 +5,7 @@
 
 **Custodial wallet infrastructure for fintechs.** Give every customer a wallet, credit deposits only when they're final, send payouts your own team approves, and keep keys in hardware enclaves you can verify yourself.
 
-[Website](https://valtu.io) · [Docs](https://valtu.io/docs) · [API guide](https://valtu.io/docs/api) · [Security](https://valtu.io/security) · [Status](https://status.valtu.io) · [Blog](https://valtu.io/blog) · [Talk to us](https://valtu.io/contact)
+[Website](https://valtu.io) · [Docs](https://valtu.io/docs) · [API guide](https://valtu.io/docs/api) · [Security](https://valtu.io/security) · [Status](https://status.valtu.io) · [Blog](https://valtu.io/blog) · [Talk to us](https://valtu.io/contact) · [LinkedIn](https://www.linkedin.com/company/valtu-wallet/)
 
 ### Quick start
 
@@ -64,4 +64,4 @@ Keys are generated and used only inside hardware enclaves. The enclave image is 
 
 ### Contact
 
-Sales and partnerships: [valtu.io/contact](https://valtu.io/contact) · Support: support@valtu.io · Security reports: security@valtu.io ([policy](https://valtu.io/docs/security#reporting))
+Sales and partnerships: [valtu.io/contact](https://valtu.io/contact) · Follow us on [LinkedIn](https://www.linkedin.com/company/valtu-wallet/) · Support: support@valtu.io · Security reports: security@valtu.io ([policy](https://valtu.io/docs/security#reporting))
